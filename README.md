@@ -10,7 +10,7 @@ Meu nome é **Guilherme** — estudante de Engenharia de Software e desenvolvedo
 - **Nome:** Guilherme Zamberse
 - **Função:** Estudante de Engenharia de Software / Desenvolvedor Back-End
 - **Local:** Lins / SP, Brasil 🇧🇷
-- **Bio:** 🎓 Engenharia de Software | 🐍 Back-end com Python | 🗄 MySQL e PL/SQL | 🐳 Docker
+- **Bio:** 🎓 Engenharia de Software | 🐍 Back-End com Python | 🗄 MySQL e PL/SQL | 🐳 Docker
 
 Dedicando meu tempo a dominar as ferramentas essenciais do Back-End. No momento, mergulhando no universo Python, aprimorando minhas habilidades em estruturação de dados com MySQL/PL-SQL e entendendo como o Docker pode transformar o deploy de aplicações. Aberto a aprender novas estruturas e trocar experiências sobre arquitetura de sistemas.
 
