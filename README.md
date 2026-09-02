@@ -2,7 +2,7 @@
 
 # oi, eu sou o Guilherme 👋
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermezamberse)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-zamberse/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.silva233222@gmail.com)
 
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=guilhermezamberse.guilhermezamberse)
