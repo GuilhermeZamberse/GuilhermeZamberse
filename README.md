@@ -1,27 +1,30 @@
-## 👋 Olá, eu sou o Guilherme Lima Zamberse da Silva
+<div align="center">
 
-### Olá! 👋
+# oi, eu sou o Guilherme 👋
 
-Meu nome é **Guilherme** — estudante de Engenharia de Software e desenvolvedor Back-End.
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermezamberse)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.silva233222@gmail.com)
 
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=guilhermezamberse.guilhermezamberse)
 
-## Sobre mim:
-
-- **Nome:** Guilherme Zamberse
-- **Função:** Estudante de Engenharia de Software / Desenvolvedor Back-End
-- **Local:** Lins / SP, Brasil 🇧🇷
-- **Bio:** 🎓 Engenharia de Software | 🐍 Back-End com Python | 🗄 MySQL e PL/SQL | 🐳 Docker
-
-Dedicando meu tempo a dominar as ferramentas essenciais do Back-End. No momento, mergulhando no universo Python, aprimorando minhas habilidades em estruturação de dados com MySQL/PL-SQL e entendendo como o Docker pode transformar o deploy de aplicações. Aberto a aprender novas estruturas e trocar experiências sobre arquitetura de sistemas.
-
-## Skills & Technologies
-
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
 </div>
+
+---
+
+### 🙋 Sobre mim
+
+Sou o Guilherme, de Lins, Brasil.
+
+- 💻 Trabalho como **Auxiliar de Suporte de TI** na Unimed Lins, desenvolvendo relatórios em PL/SQL para dados de autorização
+- 🎓 Cursando **Engenharia de Software** na Unilins
+- 📊 Foco em **Análise e Engenharia de Dados** — SQL, PL/SQL e Python
+- ✅ Certificado em Machine Learning com Python (USP)
+
+### 🛠️ Linguagens e ferramentas
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
